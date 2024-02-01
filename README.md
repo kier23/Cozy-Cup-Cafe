@@ -8,7 +8,9 @@
 
 ## About the Authors
 
-<img src="Profile/Thresh.jpg" alt="Profile.jpg" width="150" style="border-radius: 50%;">
+<div style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
+    <img src="Profile/Thresh.jpg" alt="Profile.jpg" width="150">
+</div>
 
 
 **Name:** Kier Wilson M. Familaran <br>
