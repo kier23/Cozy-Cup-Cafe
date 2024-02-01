@@ -7,8 +7,13 @@
 ## Screen Captures
 
 ## About the Authors
+<style>
+    .rounded-image {
+    border-radius: 50%;
+    }
+</style>
 
-<img src="https://avatars.githubusercontent.com/u/126538958?v=4" alt="Profile.jpg" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/126538958?v=4" alt="Profile.jpg" width="150" class="rounded-image">
 
 **Name:** Kier Wilson M. Familaran
 **Email:** kier.familaran@gmai.com
